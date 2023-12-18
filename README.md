@@ -7,14 +7,15 @@ INTRODUCTION:
 TECHNOLOGIES USED:
 -------------------
         • HTML
+	• Mongodb
         • CSS
         • JavaScript
-        • NodeJs  
+        • NodeJs
         • Express(framework)
         • Mongoose
         • ReactJs
         • AntDesign
-	• MongoDB
+ 
 
 To Run Project:
 -------------------
