@@ -7,7 +7,6 @@ INTRODUCTION:
 TECHNOLOGIES USED:
 -------------------
         • HTML
-	• Mongodb
         • CSS
         • JavaScript
         • NodeJs
